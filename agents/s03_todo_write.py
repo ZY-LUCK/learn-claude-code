@@ -25,6 +25,9 @@ forces it to keep updating when it forgets.
                       inject <reminder>
 
 Key insight: "The agent can track its own progress -- and I can see it."
+
+测试问题：
+    创建 examples/greeting.txt，内容为 'Welcome to learn-claude-code'，然后将 'learn-claude-code' 改成 's03-agent'；并显示文件内容。请用 todo 规划步骤并逐步完成。
 """
 
 import os
